@@ -1,7 +1,7 @@
 ---
-title: "Modernes et traditionnels : les paradigmes de Brasília"
+title: "Modernes et traditionnels : les paradigmes de Brasilia[^1]"
 author: "Sylvia Ficher et Pedro Palazzo"
-lang: fr
+lang: fr-FR
 abstract: |
   Dans les années 1950, une culture commune diffusée à l'échelle
   internationale à travers l'enseignement et la littérature spécialisée
@@ -36,128 +36,135 @@ reference-section-title: "Bibliographie"
 
 Dans les années 1950, une culture partagée s'est répandue à l'échelle
 internationale grâce à l'enseignement et à la littérature spécialisée,
-devenant ainsi une norme au sein des cercles professionnels.[^1] Cela a
+devenant ainsi une norme au sein des cercles professionnels. Cela a
 donné naissance à un répertoire de théories et de pratiques urbaines,
-constituant une véritable *boîte à outils de l'urbaniste*. Pour
+constituant une véritable boîte à outils de l'urbaniste. Pour
 reprendre les termes de Thomas Kuhn, il s'agissait du paradigme urbain
-prédominant, c'est-à-dire un ensemble d'"acquis scientifiques
-universellement reconnus qui, pendant un certain temps, fournissent des
-problèmes et des solutions modèles à une communauté de praticiens".[^2]
+prédominant, c'est-à-dire un ensemble de « découvertes scientifiques
+universellement reconnues qui, pour un temps, fournissent à une communauté de
+chercheurs des problèmes types et des solutions. » [@kuhn:1991structure, 11.]
+La justification de l'application de ses idées à des domaines extérieurs aux
+sciences *dures* est donnée par Kuhn lui-même dans « Comment on the Relations
+of Science and Art » (1969 ; Thomas Kuhn, *The essential tension*, 1977, pp.
+340-51).
 
-# forme urbaine et forme architecturale 
+# Forme urbaine et forme architecturale 
 
 Une analyse plus approfondie des éléments de cette boîte à outils
-paradigmatique, pourrait nous aider à mieux comprendre sa genèse et son
-modus operandi. Pour présenter les solutions les plus caractéristiques
-qui en résultent, deux dimensions solidaires mais indépendantes seront
+paradigmatique pourrait nous aider à mieux comprendre sa genèse et son
+*modus operandi*. Pour présenter les solutions les plus caractéristiques
+qui en résultent, deux dimensions solidaires mais autonomes seront
 considérées : la *forme urbaine* et la *forme architecturale*.
 Cependant, il convient de noter que les catégories exposées ci-dessous
 ont une nature analytique, car des outils différents peuvent être
 combinés dans un même projet, mettant ainsi en évidence la logique
 organique et imbriquée de leurs articulations possibles.
 
-# le Plan Pilote de Brasília 
+# Le Plan Pilote de Brasília 
 
-Un exemple illustrant l'utilisation de ces outils est la proposition
-gagnante présentée par l'architecte et urbaniste Lucio Costa au
-concours organisé em 1956 pour sélectionner un *plan pilote* pour la
-nouvelle Capitale du Brésil, à construire dans l'*hinterland* du
-pays.[^3] Mais attention, la discussion a pour référence exclusivement
-le project de Brasília et non à la ville effectivement construite.
-Pourtant, les villes sont des villes et certains espaces de Brasília
-préservent les qualités du tissu urbain traditionnel.
+Un exemple illustrant la mise en œuvre de ces outils est la proposition
+gagnante présentée par l'architecte et urbaniste Lucio Costa au concours
+organisé em 1956 pour sélectionner un *plan pilote* pour la nouvelle
+capitale du Brésil, à construire dans l'*hinterland* du pays.[^3] Mais
+attention, la discussion a pour référence exclusivement le projet de
+Brasília et non à la ville effectivement construite. Pourtant, les
+villes sont des villes et certains espaces de Brasília préservent les
+qualités du tissu urbain traditionnel.
 
-![Lucio Costa, Plan Pilote de Brasília, 1957. source : Lucio Costa, *Registro de uma vivência*, 1995, p. ??.](){#fig:figure-1}
+![Lucio Costa, Plan Pilote de Brasília, 1957. Source : Lucio Costa, *Registro de uma vivência*, 1995, p. ??.](){#fig:figure-1}
 
-# la forme urbaine 
+# La forme urbaine 
 
-Du dernier tiers du XIXe siècle jusqu'au milieu du XXe siècle, dans le
+Du dernier tiers du XIX^e^ siècle jusqu'au milieu du XX^e^ siècle, dans le
 contexte d'une croissance urbaine sans précédent en Europe, la plupart
 des propositions et des actions visant à faire face à ses conséquences
-s'inscrivent dans trois schémas récurrents : *les interventions au sein
-des tissus urbains consolidés*, *les projets visant à répondre aux
-besoins d'expansion*, et *la création de nouvelles agglomérations,
-parfois selon des modèles urbains entièrement nouveaux*.
+s'inscrivent dans trois schémas récurrents :
 
-# urbanistica et la ville
+(1) les interventions au sein des tissus urbains consolidés,
+(2) les projets visant à répondre aux besoins d'expansion, et
+(3) la création de nouvelles agglomérations, parfois selon des modèles
+    urbains entièrement nouveaux.
+
+# Urbanisme et ville
 
 En ce qui concerne la dimension civique de Brasília en tant que
 Capitale, la question de la monumentalité occupe une place
 prépondérante. Aussi ancien que l'urbanisation elle-même, le traitement
-réservé aux *espaces de représentation* a été le thème privilégié de
-l'urbanistica en tant que discipline. Et sa solution paradigmatique a
-été la *composition monumentale*, au moyen de l'aménagement d'axes
+réservé aux espaces de représentation a été le sujet privilégié de
+l'urbanisme en tant que discipline. Sa solution paradigmatique a été
+la composition monumentale, au moyen de l'aménagement d'axes
 régulateurs, de la symétrie, de l'ordonnance géométrique, de la
 séparation des parties, d'œuvres d'art ou de la construction de
-bâtiments imposats pour clore les perspectives, tous des éléments
+bâtiments imposants pour clore les perspectives, tous des éléments
 déployés selon des corrélations de vides et pleins qui distinguent ces
 espaces du tissu urbain ordinaire. Comme dans la Porta del Popolo, où
 Giovenale Manetti a rectifié la confluence de trois rues (1538), et
-Domenico Fontana a complété l'agencement en plaçant un obélisque en
-leur point focal (1589).
+Domenico Fontana a complété l'agencement en plaçant un obélisque en leur
+point focal (1589).
 
-# la monumentalité du XVIIe au XXe siècle
+# Monumentalité du XVII^e^ au XX^e^ siècle
 
 La convergence de trois rues sur une place, avec des effets de
 perspective singuliers, aboutit à la figure d'un *trident* ou *patte
-d'oie*. À partir du XVIIe siècle, cette configuration est devenue
+d'oie*. À partir du XVII^e^ siècle, cette configuration est devenue
 presque obligatoire pour les espaces de représentation, parfois étendue
 à l'ensemble du tissu urbain par le biais d'avenues diagonales. Un
-exemple influent parmi tant d'autres est le plan de Versailles (1671).
+exemple influent parmi tant d'autres est le plan du parc de
+Versailles (1671).
 
 Dans le plan de Pierre L'Enfant pour Washington (1791), l'arsenal des
 gestes monumentaux, jusque-là caractéristiques des États absolutistes, a
 été exploité pour donner forme à la capitale d'une nation démocratique.
-Au fur et à mesure que le XXe siècle avance, la monumentalité reste à
-l'ordre du jour, comme dans New Delhi de Edwin Lutyens (1911) ou
-Canberra de Walter Burley Griffin (1912), jusqu'au plan de Albert Speer
+Au fur et à mesure que le XX^e^ siècle avance, la monumentalité reste à
+l'ordre du jour, comme dans la New Delhi d'Edwin Lutyens (1911) ou
+Canberra de Walter Burley Griffin (1912), jusqu'au plan d'Albert Speer
 pour la Grande Berlin (1939).
 
-![André Le Nôtre, Versalhes, 1661 em diante. source : Jean Delagrive, Plan de Versailles, du petit parc, et de ses dependances\..., 1746. Disponível em: \<<http://gallica.bnf.fr/ark:/12148/btv1b77112834>\>. Acesso: 10 jan. 2014.](){#fig:figure-2}
+![André Le Nôtre, Versalhes, 1661 em diante. Source : Jean Delagrive, Plan de Versailles, du petit parc, et de ses dependances\..., 1746. Disponível em: \<<http://gallica.bnf.fr/ark:/12148/btv1b77112834>\>. Acesso: 10 jan. 2014.](){#fig:figure-2}
 
-![Walter Burley Griffin et Marion Mahony, Canberra, 1911-12. source : \<<http://commons.wikimedia.org/wiki/File:Canberra_plan_shaded-WBG.jpg>\>. Acesso: 3 décembre 2023.](){#fig:figure-3}
+![Walter Burley Griffin et Marion Mahony, Canberra, 1911-12. Source : \<<http://commons.wikimedia.org/wiki/File:Canberra_plan_shaded-WBG.jpg>\>. Acesso: 3 décembre 2023.](){#fig:figure-3}
 
-# monumentalité moderniste
+# Monumentalité moderniste
 
 Malgré les ruptures avec la tradition et le renouvellement des
-répertoires formels, la monumentalité moderniste continuerait à
-s'exprimer en termes de Beaux-Arts, ne perdant rien de sa prééminence.
-*Symétrie*, *régularité* et *séparation des parties* sont des éléments
-caractéristiques des schémas modernistes. La rupture véritablement
-remarquable avec la tradition réside dans le fait que, au lieu d'être
-une caractéristique exclusive des espaces exceptionnels, la marque
-moderniste a été largement utilisée dans l'ensemble du tissu urbain au
-moyen de bâtiments autonomes, conférant ainsi un caractère monumental
-même aux endroits et édifices les plus banals.
+répertoires formels, la monumentalité moderniste devait continuer à
+s'exprimer selon les termes Beaux-Arts, ne perdant rien de sa
+prééminence. Symétrie, régularité et séparation des parties sont
+des éléments caractéristiques des schémas modernistes. La rupture
+véritablement remarquable avec la tradition réside dans le fait que, au
+lieu d'être une caractéristique propre aux espaces exceptionnels, la
+marque moderniste a été largement utilisée dans l'ensemble du tissu
+urbain au moyen de bâtiments autonomes, conférant ainsi un caractère
+monumental même aux lieux et aux édifices les plus banals.
 
-![Le Corbusier, ville contemporaine pour 3 millions d'habitants, 1922. source : Le Corbusier, *Œuvre complète, 1910-1929*, 1937, p. 39.](){#fig:figure-4}
+![Le Corbusier, ville contemporaine pour 3 millions d'habitants, 1922. Source : Le Corbusier, *Œuvre complète, 1910-1929*, 1937, p. 39.](){#fig:figure-4}
 
-# renouvellement urbain
+# Renouvellement urbain
 
-À partir des années 1830, l'insertion des chemins de fer dans les
-villes consolidées entraînerait des travaux déchirant le tissu urbain à
-une échelle sans précédent, comme dans le Paris de Haussmann (à partir
-de 1854). Allant plus loin, la démolition et la reconstruction de
-grandes parties des villes, sous l'étiquette trompeuse de
-*renouvellement urbain*, deviendraient une intervention courante au
-milieu du XXe siècle. Bien qu'elle ait été utilisée en Europe
-d'après-guerre pour reconstruire des villes dévastées, son utilisation
-vise généralement à augmenter la valeur immobilière dans les quartiers
-dégradés et à réorganiser les systèmes de circulation. Cette pratique
-influencerait indirectement la planification de nouvelles villes en
-encourageant le recours aux voies express. Une bonne évaluation peut
-être trouvée dans *Urban renewal : The record and the controverse*
-(1966), de James Q. Wilson; une critique passionnée dans *After the
-planners* (1972), de Robert Goodman.
+À partir des années 1830, l'insertion des chemins de fer dans les villes
+consolidées entraînerait des travaux déchirant le tissu urbain à une
+échelle sans précédent, comme dans le Paris haussmannien à partir de
+1854. Allant plus loin, la démolition et la reconstruction de grandes
+parties des villes, sous l'étiquette trompeuse de *renouvellement
+urbain*, deviendraient une intervention courante au milieu du XX^e^
+siècle. Bien qu'elle ait été utilisée en Europe d'après-guerre pour
+reconstruire des villes dévastées, son utilisation vise généralement à
+augmenter la valeur immobilière dans les quartiers dégradés et à
+réorganiser les systèmes de circulation. Cette pratique influencerait
+indirectement la planification de nouvelles villes en encourageant le
+recours aux voies express. Une bonne évaluation peut être trouvée dans
+*Urban renewal : The record and the controverse* (1966), de James Q.
+Wilson; une critique passionnée dans *After the planners* (1972), de
+Robert Goodman.
 
-![Le Corbusier, Plan Voisin, Paris, 1925. source : Le Corbusier, *Œuvre complète, 1910-1929*, 1937, p. 108.](){#fig:figure-5}
+![Le Corbusier, Plan Voisin, Paris, 1925. Source : Le Corbusier, *Œuvre complète, 1910-1929*, 1937, p. 108.](){#fig:figure-5}
 
-# spécialisation des voies de circulation 
+# Spécialisation des voies de circulation 
 
 Le réseau routier, toujours au cœur des réflexions urbaines, a vu se
 répandre l'idée que la séparation des voies piétonnes et des voies pour
 véhicules atténuerait les congestions et réduirait les accidents.
-Préfigurée au XVe siècle par le plan de Milan de Léonard de Vinci et
+Préfigurée au XV^e^ siècle par le plan de Milan de Léonard de Vinci et
 employée de manière emblématique par Frederick Law Olmsted et Calvert
 Vaux au Central Park de New York (1853), cette alternative a joué un
 rôle prépondérant dans plusieurs études prospectives, comme la *rue
@@ -165,9 +172,9 @@ future* (1910) d'Eugène Hénard. Pas surprenant, elle a été promue de
 manière obsessionnelle par Corbusier dans toutes ses réflexions
 urbanistiques, comme dans son influent essai *La règle des 7 V* (1953).
 
-![Harvey Wiley Corbett, *The future circulation and the cloudscrapers of New York*, 1913. source : Joan Dethier et Alain Guiheux (orgs.), *La ville, art et architecture en Europe, 1870-1993*, 1994, p. 191.](){#fig:figure-6}
+![Harvey Wiley Corbett, *The future circulation and the cloudscrapers of New York*, 1913. Source : Joan Dethier et Alain Guiheux (orgs.), *La ville, art et architecture en Europe, 1870-1993*, 1994, p. 191.](){#fig:figure-6}
 
-# urbanisme autoroutier
+# Urbanisme autoroutier
 
 Allant encore plus loin dans la déchirure du tissu urbain, une manière
 particulière de gérer la circulation automobile consiste à recourir à
@@ -187,9 +194,9 @@ accidents de la route. Quant à son efficacité, elle se résume dans la
 définition drôle de la voie express : *le moyen le plus vite pour
 atteindre le prochain embouteillage*.
 
-![Spencer E. Sanders et Arthur J. Rabuck, Plan de réaménagement de la zone « A », Baltimore, Maryland. source : Spencer E. Sanders e Arthur J. Rabuck, *New city patterns*, 1946, p. 41.](){#fig:figure-7}
+![Spencer E. Sanders et Arthur J. Rabuck, Plan de réaménagement de la zone « A », Baltimore, Maryland. Source : Spencer E. Sanders e Arthur J. Rabuck, *New city patterns*, 1946, p. 41.](){#fig:figure-7}
 
-# l'agrandissement des villes : les *ensanches* 
+# Agrandissement des villes : les *ensanches* 
 
 L'extension d'une ville peut être réalisée en ajoutant de nouveau
 tissu urbain à l'existant, comme fait à Barcelone (1859) par Ildefons
@@ -200,9 +207,9 @@ elle-même qui idéalement ne devrait pas être modifiée, il est devenu une
 sorte de laboratoire pour la manipulation de la forme urbaine et, par
 conséquent, un élément incontestable du paradigme examiné ici.
 
-![Idelfons Cerdà, Barcelona, 1859. source : \<<https://upload.wikimedia.org/wikipedia/commons/8/89/PlaCerda1859b.jpg>\>. Acesso: 3 décembre 2023.](){#fig:figure-8}
+![Idelfons Cerdà, Barcelona, 1859. Source : \<<https://upload.wikimedia.org/wikipedia/commons/8/89/PlaCerda1859b.jpg>\>. Acesso: 3 décembre 2023.](){#fig:figure-8}
 
-# zonage
+# Zonage
 
 En contraste aux interventions essentiellement physiques, le *zonage*
 est un effort visant à *contrôler les activités dans différentes zones
@@ -217,21 +224,21 @@ il abouti à la sectorisation -- la définition stricte de districts ou
 quartiers à usage unique et des dimensions des bâtiments, orientation
 excessivement adoptée à Brasília.
 
-# la ville et l'avion
+# La ville et l'avion
 
 À mesure que de nouveaux moyens de transport devenaient largement
-disponibles au cours du premier quart du XXe siècle, ils influenceraient
+disponibles au cours du premier quart du XX^e^ siècle, ils influenceraient
 non seulement la réflexion urbaine, mais aussi l'esthétique urbaine,
 comme en témoigne la présence indispensable d'avions et d'aéroports
 dans l'imagerie de la ville futuriste. Il n'est donc pas surprenant
 que le Plan Pilote de Brasília reprenne littéralement la figure d'un
 avion.
 
-![Eugène Hénard, *une ville de l'avenir: vue a vol d'aéroplane*, 1910. source : Joan Dethier e Alain Guiheux (orgs.), *La ville, art et architecture en Europe, 1870-1993*, 1994, p. 124.](){#fig:figure-9}
+![Eugène Hénard, *une ville de l'avenir: vue a vol d'aéroplane*, 1910. Source : Joan Dethier e Alain Guiheux (orgs.), *La ville, art et architecture en Europe, 1870-1993*, 1994, p. 124.](){#fig:figure-9}
 
-# nouvelles formes urbaines 
+# Nouvelles formes urbaines 
 
-Un paradigme de la Renaissance retrouvé au XIXe siècle est la création
+Un paradigme de la Renaissance retrouvé au XIX^e^ siècle est la création
 de *modèles uniques et originaux* pour de nouvelles villes, quartiers,
 voire des projets de renouvellement urbain.
 
@@ -243,9 +250,9 @@ voire des projets de renouvellement urbain.
 >
 > villes satellites, *new towns* et *villes nouvelles*
 
-# la *ciudad lineal*
+# La ville linéaire
 
-D'abord formulé pour une extension de Madrid, le concept de la *ciudad
+D'abord formulé pour une extension de Madrid, le concept de *ciudad
 lineal* de Soria y Mata (1882) est rapidement devenu une formule
 générique, comme dans la *cité industrielle* (1901-04), de Tony Garnier.
 Avec le même caractère, cette solution fut adopté par Le Corbusier,
@@ -258,11 +265,11 @@ Daneri à Gênes.Un exemple curieux est l'Institut central des sciences
 (1962), d'Oscar Niemeyer à l'Université de Brasília, une sorte
 d'image à l'échelle du Plan Pilote de la ville.
 
-![Le Corbusier, project pour Rio de Janeiro, 1929. source : \<<http://www.nybooks.com/blogs/nyrblog/2013/jun/29/contradictions-le-corbusier/>\>. Acesso: 2 out. 2014.](){#fig:figure-10}
+![Le Corbusier, project pour Rio de Janeiro, 1929. Source : \<<http://www.nybooks.com/blogs/nyrblog/2013/jun/29/contradictions-le-corbusier/>\>. Acesso: 2 out. 2014.](){#fig:figure-10}
 
-![Oscar Niemeyer, Instituto Central de Ciências, Brasília, 1962. source : CEDOC, Universidade de Brasília.](){#fig:figure-11}
+![Oscar Niemeyer, Instituto Central de Ciências, Brasília, 1962. Source : CEDOC, Universidade de Brasília.](){#fig:figure-11}
 
-# expansions suburbaines et la *garden city*
+# Expansions suburbaines et la *garden city*
 
 Contrairement à la création de nouvelles agglomérations en tant
 qu'embryons de villes autonomes, les *expansions suburbaines* sont
@@ -279,9 +286,9 @@ dans *Tomorrow: A Peaceful Path to Real Reform* (1898) d'Ebenezer
 Howard et mis en œuvre pour la première fois par Barry Parker et Raymond
 Unwin à Letchworth (1904).
 
-![Frederick Law Olmsted, Riverside, Illinois, 1869. source : \<<http://statebystategardening.com/state.php/newsletters/stories/the_history_of_lawns/>\>. Acesso: 29 set. 2014.](){#fig:figure-12}
+![Frederick Law Olmsted, Riverside, Illinois, 1869. Source : \<<http://statebystategardening.com/state.php/newsletters/stories/the_history_of_lawns/>\>. Acesso: 29 set. 2014.](){#fig:figure-12}
 
-# la *ville radieuse*
+# La ville radieuse
 
 À partir de la *ville contemporaine* (1922) et le *Plan Voisin* (1925),
 les études théoriques de Le Corbusier se distinguent par l'accent mis
@@ -294,9 +301,9 @@ détaillées étant celles pour la *reconstruction de Saint-Dié* (1945) --
 d'un intérêt particulier en raison de son influence évidente dans le
 Plan Pilote de Brasília -- et pour *Chandigarh* (1952-64).
 
-![Le Corbusier, *ville contemporaine de 3 millions d'habitants*, 1922. source : Joan Dethier e Alain Guiheux (orgs.), *La ville, art et architecture en Europe, 1870-1993*, 1994, p. 290.](){#fig:figure-13}
+![Le Corbusier, *ville contemporaine de 3 millions d'habitants*, 1922. Source : Joan Dethier e Alain Guiheux (orgs.), *La ville, art et architecture en Europe, 1870-1993*, 1994, p. 290.](){#fig:figure-13}
 
-# villes satellites, *new towns* et *villes nouvelles*
+# Cités satellites, *new towns* et *villes nouvelles*
 
 Ludwig Hilberseimer, dans *Großstadt Architektur* (1927), a
 ainsi résumé le concept de villes satellites:
@@ -325,9 +332,9 @@ Parmi les *villes nouvelles* françaises, les plus connues -- et
 controversées -- sont Marly-le-Roi ; Toulouse Le Mirail et
 Cergy-Pontoise.
 
-![Localisation des villes nouvelles autour de Paris, 1965. source : Manfredo Tafuri e Francesco Dal Co, *Modern architecture*, 1986, p. 293.](){#fig:figure-14}
+![Localisation des villes nouvelles autour de Paris, 1965. Source : Manfredo Tafuri e Francesco Dal Co, *Modern architecture*, 1986, p. 293.](){#fig:figure-14}
 
-# la forme architecturale 
+# Forme architecturale 
 
 Selon Philippe Panerai, le tissu urbain peut être compris comme étant
 *constitué de la superposition ou de l'imbrication de trois ensembles :
@@ -347,11 +354,11 @@ architecturale*.
 >
 > bâtiments-objets et *pilotis*
 
-# l'occupation de l'îlot urbain 
+# Occupation de l'îlot urbain 
 
 Le traitement de la division du terrain en lots conduit aux divers modes
 potentiels d'occupation de l'îlot, l'unité de surface par excellence
-du tissu urbain. À partir du XVIIIe siècle, des expériences avec ces
+du tissu urbain. À partir du XVIII^e^ siècle, des expériences avec ces
 possibilités apparaissent dans des plans tels que la reconstruction de
 Lisbonne (1756) ou la New Town d'Édimbourg (1766). Tant Cerdá dans son
 *ensanche* pour Barcelone (1859) qu'Alfred Agache dans son Plan du
@@ -364,9 +371,9 @@ Henry Wright (1924-28), jusqu'à la reconstruction du Havre à partir de
 1945 par Auguste Perret, le volume architectural tend à remplacer le lot
 en tant que donneur de la forme de base du paysage urbain.
 
-![Clarence Stein e Henry Wright, Phipps Garden Apartments, Nova York, 1930. source : \<<http://www.millermicro.com/sunnyside.html>\>. Acesso: 28 set. 2014.](){#fig:figure-15}
+![Clarence Stein e Henry Wright, Phipps Garden Apartments, Nova York, 1930. Source : \<<http://www.millermicro.com/sunnyside.html>\>. Acesso: 28 set. 2014.](){#fig:figure-15}
 
-# la rupture de l'îlot 
+# La rupture de l'îlot 
 
 Un saut crucial est effectué lorsque les limites de l'îlot sont brisées
 par une distribution plus aérée que celle du tissu densément construit
@@ -380,11 +387,11 @@ particulièrement réussi parmi de nombreux échecs est le Parque Guinle de
 Lucio Costa (1948), à Rio, le précédent principal pour les
 *superquadras* de Brasília.
 
-![Le Corbusier, *le gratte-ciel cartésien*, 1936. source : Le Corbusier, *Œuvre complète, 1934-1938*, 1947, p. 77.](){#fig:figure-16}
+![Le Corbusier, *le gratte-ciel cartésien*, 1936. Source : Le Corbusier, *Œuvre complète, 1934-1938*, 1947, p. 77.](){#fig:figure-16}
 
-![Lucio Costa, Parque Guinle, 1948. source : Lucio Costa, *Registro de uma vivência*, 1995, p. 206.](){#fig:figure-17}
+![Lucio Costa, Parque Guinle, 1948. Source : Lucio Costa, *Registro de uma vivência*, 1995, p. 206.](){#fig:figure-17}
 
-# bâtiments-objets
+# Bâtiments objets
 
 Bien que bâtiments isolés dans le tissu urbain ne soient une nouveauté,
 dans le passé leur isolement a presque toujours été associé à une
@@ -397,22 +404,22 @@ acier et en béton armé, l'un de ses résultats est l'adoption
 généralisée de l'*ossature structurale autonome* et donc la séparation
 des éléments d'enceinte des éléments porteurs.
 
-![Auguste Perret, *avenue des maisons-tours*, 1922. source : Joan Dethier e Alain Guiheux (orgs.), *La ville, art et architecture en Europe, 1870-1993*, 1994, p. 321.](){#fig:figure-18}
+![Auguste Perret, *avenue des maisons-tours*, 1922. Source : Joan Dethier e Alain Guiheux (orgs.), *La ville, art et architecture en Europe, 1870-1993*, 1994, p. 321.](){#fig:figure-18}
 
-# bâtiments-objets et pilotis 
+# Bâtiments objets et pilotis 
 
 Associés à ces deux facteurs, la prochaine étape de cette logique est
 une occupation moindre du sol, de manière à le laisser pratiquement
 libre pour permettre un espace public accru au niveau de la rue. L'idée
-était déjà mûre au début du XXe siècle, comme en témoigne la conception
+était déjà mûre au début du XX^e^ siècle, comme en témoigne la conception
 bizarre d'immeubles d'appartements (1910) de Raymond M. Hood pour New
 York. Le Corbusier a emprunté le même chemin à plusieurs reprises, en
 popularisant en même temps le mot français *pilotis* dans d'autres
 langues.
 
-![Raymond M. Hood, immeubles d'appartements, New York, c. 1910. source : Ludwig Hilberseimer, *Groszstadt Architektur*, 1927, p. 68.](){#fig:figure-19}
+![Raymond M. Hood, immeubles d'appartements, New York, c. 1910. Source : Ludwig Hilberseimer, *Groszstadt Architektur*, 1927, p. 68.](){#fig:figure-19}
 
-# de retour au Plan Pilote 
+# Retour sur le Plan Pilote 
 
 Même si la conception de Lucio Costa soit largement traduite a la
 manière corbuséene -- de la *ville contemporaine* (1922) à la *ville
@@ -424,13 +431,13 @@ laquelle prédominent les solutions autoroutières associée à des voies
 spécialisées, une forte sectorisation des usages et la prédominance de
 bâtiments isolés.
 
-# présence de Corbusier
+# Présence de Le Corbusier
 
-![Le Corbusier. Plan d'urbanisation de Saint-Dié, 1947. source : Le Corbusier, *Œuvre complète, 1938-1946*, 1947, p. 137.](){#fig:figure-20}
+![Le Corbusier. Plan d'urbanisation de Saint-Dié, 1947. Source : Le Corbusier, *Œuvre complète, 1938-1946*, 1947, p. 137.](){#fig:figure-20}
 
-![Lucio Costa, études pour le Plan Pilote, 1956-57. source : Lucio Costa, *Registro de uma vivência*, 1995, p. 284.](){#fig:figure-21}
+![Lucio Costa, études pour le Plan Pilote, 1956-57. Source : Lucio Costa, *Registro de uma vivência*, 1995, p. 284.](){#fig:figure-21}
 
-# une synthèse de paradigmes
+# Synthèse de paradigmes
 
 -   *ville monumentale* : cadre symétrique dans la tradition de
     l'urbanisme baroque ; clair distinction des espaces de
@@ -460,21 +467,21 @@ bâtiments isolés.
     lotissement foncier ; séparation des piétons et des voitures à
     différents niveaux.
 
-# projets contemporains a Brasília 
+# Projets contemporains à Brasília 
 
 Témoignant davantage de l'existence de formules paradigmatiques dans la
-conception urbaine au milieu du XXe siècle, on trouve un grand nombre
+conception urbaine au milieu du XX^e^ siècle, on trouve un grand nombre
 d'exemples de leur mise en œuvre. La proposition de Paul Lester Wiener
 et Josep Lluis Sert pour Chimbote (1953), au Pérou, rappelle
 immédiatement certaines zones centrales de Brasília. La similitude entre
 le complexe résidentiel Alton West (1956), à Londres, et les
 *superquadras* de Brasília est évident.
 
-![Paul L. Wiener et Josep L. Sert, Chimbote, Peru, 1953. source : Ernesto N. Rogers, J.L. Sert e J. Tyrwhitt, *The heart of the City*, 1955, p. 128.](){#fig:figure-22}
+![Paul L. Wiener et Josep L. Sert, Chimbote, Peru, 1953. Source : Ernesto N. Rogers, J.L. Sert e J. Tyrwhitt, *The heart of the City*, 1955, p. 128.](){#fig:figure-22}
 
-![London County Council, Alton Estate, Londres, 1952-57. source : Manfredo Tafuri et Francesco Dal Co, *Modern architecture*, 1986, p. 345.](){#fig:figure-23}
+![London County Council, Alton Estate, Londres, 1952-57. Source : Manfredo Tafuri et Francesco Dal Co, *Modern architecture*, 1986, p. 345.](){#fig:figure-23}
 
-# l'impact de Brasília 
+# L'influence de Brasília 
 
 Non seulement Brasília était un produit de ces paradigmes, mais elle est
 devenue elle-même archétypale. Son autorité se ressent dans des projets
@@ -484,9 +491,9 @@ de Wallace Harrison. Des exemples qui illustrent la nature dynamique du
 paradigme, prompt à incorporer des solutions acclamées dans le champ
 professionnel.
 
-![Wallace K. Harrison, Empire State Plaza, Albany, New York, 1965-1978. source : carte postale, collection Sylvia Ficher](){#fig:figure-24}
+![Wallace K. Harrison, Empire State Plaza, Albany, New York, 1965-1978. Source : carte postale, collection Sylvia Ficher](){#fig:figure-24}
 
-# la critique des paradigmes 
+# La critique des paradigmes 
 
 Cependant, cette période de succès ne durera pas. À la fin des années
 1950 et au début des années 1960, cette boîte à outils urbaines a
@@ -497,23 +504,17 @@ Giuseppe Samonà (1959), *The Image of the City* de Kevin Lynch (1960),
 *Townscape* de Gordon Cullen (1961) et *The Death and Life of the Great
 American Cities* de Jane Jacobs (1961).
 
-# Brasília metrópolitaine
+# Brasilia métropolitaine
 
-# le destin de Brasília
+# Le destin de Brasília
 
-![Paulo Caruso, Où est le Plan Pilote ?. source : collection Sylvia Ficher](){#fig:figure-25}
+![Paulo Caruso, Où est le Plan Pilote ?. Source : collection Sylvia Ficher](){#fig:figure-25}
 
-[^1]: Cet article est une version extrêmement résumée de recherches
+[^1]: Cet article est une version extrêmement réduite de recherches
     que nous menons depuis plus d'une douzaine d'années, sous
     l'influence des travaux théoriques et des projects urbains de
     Philippe Panerai, notre très cher ami que nous avons perdu le 11 mai
     2023.
-
-[^2]: Thomas Kuhn, *The structure of scientific revolutions*, 1962, p.
-    viii. La justification de l'application de ses idées à des domaines
-    extérieurs aux sciences *dures* est donnée par Kuhn lui-même dans «
-    Comment on the Relations of Science and Art » (1969 ; Thomas Kuhn,
-    *The essential tension*, 1977, pp. 340-51).
 
 [^3]: Pour une étude plus complète de l'histoire urbaine de Brasilia,
     voir Geraldo N. Batista, Sylvia Ficher, Francisco Leitão et Dionísio
@@ -521,5 +522,4 @@ American Cities* de Jane Jacobs (1961).
     A Gordon (ed.), *Planning Twentieth Century Capital cities*,
     2006.
 
-[^4]: Philippe Panerai et alii, *Analyse urbaine*, 1999, p.
-    103.
+[^4]: Philippe Panerai, *Analyse urbaine*, 1999, p. 103.
