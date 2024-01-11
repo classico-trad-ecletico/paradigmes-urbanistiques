@@ -75,7 +75,7 @@ Brasilia et non à la ville effectivement construite. Pourtant, les
 villes sont des villes et certains espaces de Brasilia préservent les
 qualités du tissu urbain traditionnel.
 
-![Lucio Costa, Plan Pilote de Brasilia, 1957. Source : Lucio Costa, *Registro de uma vivência*, 1995, p. ??.](){#fig:figure-1}
+![Lucio Costa, Plan Pilote de Brasilia, 1957. Projet du concours](media/ppb.png){#fig:figure-1}
 
 # Tissu urbain #
 
