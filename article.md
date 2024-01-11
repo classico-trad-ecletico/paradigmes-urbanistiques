@@ -124,9 +124,13 @@ l'ordre du jour, comme dans la New Delhi d'Edwin Lutyens (1911) ou
 Canberra de Walter Burley Griffin (1912), jusqu'au plan d'Albert Speer
 pour la Grande Berlin (1939).
 
-![André Le Nôtre, Versalhes, 1661 em diante. Source : Jean Delagrive, Plan de Versailles, du petit parc, et de ses dependances\..., 1746. Disponível em: \<<http://gallica.bnf.fr/ark:/12148/btv1b77112834>\>. Acesso: 10 jan. 2014.](){#fig:figure-2}
+![André Le Nôtre, jardin et parc de Versailles, 1671, représentés par Jean Delagrive, Plan de Versailles, du petit parc, et de ses dependances..., 1746. Bibliothèque nationale de France, département Estampes et photographie, [FT 6-VA-448 (B)][]](media/delagrive.jpg){#fig:figure-2}
 
-![Walter Burley Griffin et Marion Mahony, Canberra, 1911-12. Source : \<<http://commons.wikimedia.org/wiki/File:Canberra_plan_shaded-WBG.jpg>\>. Acesso: 3 décembre 2023.](){#fig:figure-3}
+[FT 6-VA-448 (B)]: https://gallica.bnf.fr/ark:/12148/btv1b53128487t
+
+![Walter Burley Griffin et Marion Mahony, Canberra, 1911-12. [Archives Nationales d'Australie C9681][]](media/canberra.jpg){#fig:figure-3}
+
+[Archives Nationales d'Australie C9681]: https://commons.wikimedia.org/wiki/File:Canberra_plan_shaded-WBG.jpg
 
 ## Monumentalité moderniste ##
 
@@ -141,7 +145,7 @@ marque moderniste a été largement utilisée dans l'ensemble du tissu
 urbain au moyen de bâtiments autonomes, conférant ainsi un caractère
 monumental même aux lieux et aux édifices les plus banals.
 
-![Le Corbusier, ville contemporaine pour 3 millions d'habitants, 1922. Source : Le Corbusier, *Œuvre complète, 1910-1929*, 1937, p. 39.](){#fig:figure-4}
+<!--![Le Corbusier, ville contemporaine pour 3 millions d'habitants, 1922. Source : Le Corbusier, *Œuvre complète, 1910-1929*, 1937, p. 39.](){#fig:figure-4}-->
 
 # Renouvellement urbain #
 
@@ -161,7 +165,7 @@ recours aux voies express. Une bonne évaluation peut être trouvée dans
 Wilson; une critique passionnée dans *After the planners* (1972), de
 Robert Goodman.
 
-![Le Corbusier, Plan Voisin, Paris, 1925. Source : Le Corbusier, *Œuvre complète, 1910-1929*, 1937, p. 108.](){#fig:figure-5}
+<!--![Le Corbusier, Plan Voisin, Paris, 1925. Source : Le Corbusier, *Œuvre complète, 1910-1929*, 1937, p. 108.](){#fig:figure-5}-->
 
 ## Spécialisation des voies de circulation ##
 
@@ -172,11 +176,15 @@ Préfigurée au XV^e^ siècle par le plan de Milan de Léonard de Vinci et
 employée de manière emblématique par Frederick Law Olmsted et Calvert
 Vaux au Central Park de New York (1853), cette alternative a joué un
 rôle prépondérant dans plusieurs études prospectives, comme la *rue
-future* (1910) d'Eugène Hénard. Pas surprenant, elle a été promue de
+future* (1910) d'Eugène Hénard. Il n'est donc pas surprenant qu'elle ait été promue de
 manière obsessionnelle par Corbusier dans toutes ses réflexions
 urbanistiques, comme dans son influent essai *La règle des 7 V* (1953).
 
-![Harvey Wiley Corbett, *The future circulation and the cloudscrapers of New York*, 1913. Source : Joan Dethier et Alain Guiheux (orgs.), *La ville, art et architecture en Europe, 1870-1993*, 1994, p. 191.](){#fig:figure-6}
+![Alison et Peter Smithson, Robin Hood Gardens, Londres, 1968--72. Grand ensemble d'habitation à voies séparées: passerelles piétonnes (à dr.), voies locales (à g.), voies rapides (non cadrées). Photo: [Steve Cadman, 2008][]](media/2560px-Robin_Hood_Gardens_Streets_in_the_Sky.jpg){#fig:robin}
+
+[Steve Cadman, 2008]: https://commons.wikimedia.org/wiki/File:Robin_Hood_Gardens_Streets_in_the_Sky.jpg
+
+<!--![Harvey Wiley Corbett, *The future circulation and the cloudscrapers of New York*, 1913. Source : Joan Dethier et Alain Guiheux (orgs.), *La ville, art et architecture en Europe, 1870-1993*, 1994, p. 191.](){#fig:figure-6}-->
 
 ## Urbanisme autoroutier ##
 
