@@ -23,7 +23,7 @@ abstract: |
   professional circles and gave rise to a repertoire of urban theories
   and practices. An assessment of Lucio Costa's winning entry for the
   competition for the Pilot Plan of Brasilia (1957) attest to the
-  existence of these paradigmatic formulae. Further more, not only was
+  existence of these paradigmatic formulae. Furthermore, not only was
   Brasilia a product of this culture, it grew to become itself
   archetypal. Yet, this high tide would be short-lived. In late 1950s
   and early 1960s, this veritable urban designer's toolbox began to lose
@@ -165,6 +165,8 @@ recours aux voies express. Une bonne évaluation peut être trouvée dans
 Wilson; une critique passionnée dans *After the planners* (1972), de
 Robert Goodman.
 
+![Oswald Charles Barrett, Vision, dans *How Should We Rebuild London* par C. B. Purdom, 1945](media/barrett.png){#fig:barrett}
+
 <!--![Le Corbusier, Plan Voisin, Paris, 1925. Source : Le Corbusier, *Œuvre complète, 1910-1929*, 1937, p. 108.](){#fig:figure-5}-->
 
 ## Spécialisation des voies de circulation ##
@@ -180,9 +182,13 @@ future* (1910) d'Eugène Hénard. Il n'est donc pas surprenant qu'elle ait été
 manière obsessionnelle par Corbusier dans toutes ses réflexions
 urbanistiques, comme dans son influent essai *La règle des 7 V* (1953).
 
-![Alison et Peter Smithson, Robin Hood Gardens, Londres, 1968--72. Grand ensemble d'habitation à voies séparées: passerelles piétonnes (à dr.), voies locales (à g.), voies rapides (non cadrées). Photo: [Steve Cadman, 2008][]](media/2560px-Robin_Hood_Gardens_Streets_in_the_Sky.jpg){#fig:robin}
+![Gösta Lundborg, Tage William-Olsson, Holger Blom et Lennart Rönnmark, échangeur multimodal (automobile, tramway et piéton, sur différents niveaux) de Slussen, centre-ville de Stockholm, à son inauguration le 15 octobre 1935. Photographe inconnu, [Musée de la ville de Stockholm][]](media/slussen.jpg){#fig:slussen}
 
-[Steve Cadman, 2008]: https://commons.wikimedia.org/wiki/File:Robin_Hood_Gardens_Streets_in_the_Sky.jpg
+[Musée de la ville de Stockholm]: https://commons.wikimedia.org/wiki/File:Slussen_15_10_1935.jpg
+
+<!--![Alison et Peter Smithson, Robin Hood Gardens, Londres, 1968--72. Grand ensemble d'habitation à voies séparées: passerelles piétonnes (à dr.), voies locales (à g.), voies rapides (non cadrées). Photo: [Steve Cadman, 2008][]](media/2560px-Robin_Hood_Gardens_Streets_in_the_Sky.jpg){#fig:robin}-->
+
+<!--[Steve Cadman, 2008]: https://commons.wikimedia.org/wiki/File:Robin_Hood_Gardens_Streets_in_the_Sky.jpg-->
 
 <!--![Harvey Wiley Corbett, *The future circulation and the cloudscrapers of New York*, 1913. Source : Joan Dethier et Alain Guiheux (orgs.), *La ville, art et architecture en Europe, 1870-1993*, 1994, p. 191.](){#fig:figure-6}-->
 
@@ -206,7 +212,7 @@ accidents de la route. Quant à son efficacité, elle se résume dans la
 définition drôle de la voie express : *le moyen le plus vite pour
 atteindre le prochain embouteillage*.
 
-![Spencer E. Sanders et Arthur J. Rabuck, Plan de réaménagement de la zone « A », Baltimore, Maryland. Source : Spencer E. Sanders e Arthur J. Rabuck, *New city patterns*, 1946, p. 41.](){#fig:figure-7}
+![Spencer E. Sanders et Arthur J. Rabuck, Plan de réaménagement de la zone « A », Baltimore, Maryland. Dans *New city patterns*, 1946, p. 41.](media/balto.png){#fig:figure-7}
 
 ## Agrandissement des villes : les *ensanches* ##
 
@@ -219,7 +225,9 @@ elle-même qui idéalement ne devrait pas être modifiée, il est devenu une
 sorte de laboratoire pour la manipulation de la forme urbaine et, par
 conséquent, un élément incontestable du paradigme examiné ici.
 
-![Idelfons Cerdà, Barcelona, 1859. Source : \<<https://upload.wikimedia.org/wikipedia/commons/8/89/PlaCerda1859b.jpg>\>. Acesso: 3 décembre 2023.](){#fig:figure-8}
+![Idelfons Cerdà i Sunyer, projet de renouvellement et extension de Barcelone, 1859. [Musée d'histoire de la ville de Barcelone][]](media/eixample.jpg){#fig:figure-8}
+
+[Musée d'histoire de la ville de Barcelone]: https://commons.wikimedia.org/wiki/File:PlaCerda1859b.jpg
 
 ## Zonage ##
 
@@ -246,21 +254,13 @@ dans l'imagerie de la ville futuriste. Il n'est donc pas surprenant
 que le Plan Pilote de Brasilia reprenne littéralement la figure d'un
 avion.
 
-![Eugène Hénard, *une ville de l'avenir: vue a vol d'aéroplane*, 1910. Source : Joan Dethier e Alain Guiheux (orgs.), *La ville, art et architecture en Europe, 1870-1993*, 1994, p. 124.](){#fig:figure-9}
+![Eugène Hénard, Une ville de l'avenir: vue à vol d'aéroplane, 1910](media/henard.png){#fig:figure-9}
 
 # Nouvelles formes urbaines #
 
 Un paradigme de la Renaissance retrouvé au XIX^e^ siècle est la création
 de *modèles uniques et originaux* pour de nouvelles villes, quartiers,
 voire des projets de renouvellement urbain.
-
-> la *ciudad lineal*
->
-> expansions suburbaines et la *garden city*
->
-> la *ville radieuse*
->
-> villes satellites, *new towns* et *villes nouvelles*
 
 ## La ville linéaire ##
 
@@ -269,7 +269,7 @@ lineal* de Soria y Mata (1882) est rapidement devenu une formule
 générique, comme dans la *cité industrielle* (1901-04), de Tony Garnier.
 Avec le même caractère, cette solution fut adopté par Le Corbusier,
 depuis ses études pour Rio de Janeiro et Alger jusqu'à sa propre *cité
-linéaire industrielle*, à partir de 1943. Transposé dans la frénésie de
+linéaire industrielle*, à partir de 1943. Transposé dans le fade de
 la mégastructure d'après-guerre en tant que solution architecturale, il
 a donné naissance à des ensembles résidentiels tels que le Pedregulho
 (1948), d'Affonso Reidy à Rio, ou les Forti di Quezzi (1960), de Luigi
@@ -277,9 +277,11 @@ Daneri à Gênes.Un exemple curieux est l'Institut central des sciences
 (1962), d'Oscar Niemeyer à l'Université de Brasilia, une sorte
 d'image à l'échelle du Plan Pilote de la ville.
 
-![Le Corbusier, project pour Rio de Janeiro, 1929. Source : \<<http://www.nybooks.com/blogs/nyrblog/2013/jun/29/contradictions-le-corbusier/>\>. Acesso: 2 out. 2014.](){#fig:figure-10}
+![Edgar Chambless, *Roadtown*, New York, 1910](media/roadtown.jpg){#fig:roadtown}
 
-![Oscar Niemeyer, Instituto Central de Ciências, Brasilia, 1962. Source : CEDOC, Universidade de Brasilia.](){#fig:figure-11}
+<!--![Le Corbusier, project pour Rio de Janeiro, 1929. Source : \<<http://www.nybooks.com/blogs/nyrblog/2013/jun/29/contradictions-le-corbusier/>\>. Acesso: 2 out. 2014.](){#fig:figure-10}-->
+
+<!--![Oscar Niemeyer, Instituto Central de Ciências, Brasilia, 1962. Source : CEDOC, Universidade de Brasilia.](){#fig:figure-11}-->
 
 ## Expansions suburbaines et cités-jardins ##
 
@@ -298,7 +300,9 @@ dans *Tomorrow: A Peaceful Path to Real Reform* (1898) d'Ebenezer Howard
 et mis en œuvre pour la première fois par Barry Parker et Raymond Unwin
 à Letchworth (1904).
 
-![Frederick Law Olmsted, Riverside, Illinois, 1869. Source : \<<http://statebystategardening.com/state.php/newsletters/stories/the_history_of_lawns/>\>. Acesso: 29 set. 2014.](){#fig:figure-12}
+![Frederick Law Olmsted et Calvert Vaux, Riverside, Illinois, 1869. [The Frederick Law Olmsted Society of Riverside][]](media/general-plan-of-riverside.jpg){#fig:figure-12}
+
+[The Frederick Law Olmsted Society of Riverside]: https://www.olmstedsociety.org/resources/maps-of-riverside/
 
 ## La ville radieuse ##
 
@@ -309,11 +313,11 @@ bâtiments isolés. Ses prescriptions, largement diffusées à travers des
 textes bien connus, l'a plupart publiés dans ses *Œuvres complètes*
 (1935- 70), ont encore une forte influence dans le monde entier.
 Néanmoins, ses conceptions pour des sites concrets sont rares, les plus
-détaillées étant celles pour la *reconstruction de Saint-Dié* (1945) --
+détaillées étant celles pour la reconstruction de Saint-Dié (1945) ---
 d'un intérêt particulier en raison de son influence évidente dans le
-Plan Pilote de Brasilia -- et pour *Chandigarh* (1952-64).
+Plan Pilote de Brasilia --- et pour Chandigarh (1952--64).
 
-![Le Corbusier, *ville contemporaine de 3 millions d'habitants*, 1922. Source : Joan Dethier e Alain Guiheux (orgs.), *La ville, art et architecture en Europe, 1870-1993*, 1994, p. 290.](){#fig:figure-13}
+<!--![Le Corbusier, *ville contemporaine de 3 millions d'habitants*, 1922. Source : Joan Dethier e Alain Guiheux (orgs.), *La ville, art et architecture en Europe, 1870-1993*, 1994, p. 290.](){#fig:figure-13}-->
 
 ## Cités satellites, *new towns* et *villes nouvelles* ##
 
@@ -329,7 +333,7 @@ ainsi résumé le concept de villes satellites:
 > population limitée\... Même s'ils peuvent avoir une indépendance
 > locale, de tels quartiers résidentiels sont des membres d'un corps
 > commun, étroitement liés au noyau central, et constituent avec lui une
-> unité économique et techniqueadministrative.
+> unité économique et technique administrative.
 
 De même, les *new towns* et les *villes nouvelles* construites dans les
 années 1950 et 60, surtout au Royaume-Uni et en France, ressemblent
@@ -340,11 +344,11 @@ excellence de la future ville, et un tel système de moindre mérite
 urbain et architectural s'est en fait développé même avant
 l'inauguration de la nouvelle Capitale en 1960.
 
-Parmi les *villes nouvelles* françaises, les plus connues -- et
-controversées -- sont Marly-le-Roi ; Toulouse Le Mirail et
+Parmi les villes nouvelles françaises, les plus connues --- et
+controversées --- sont Marly-le-Roi ; Toulouse-Le-Mirail et
 Cergy-Pontoise.
 
-![Localisation des villes nouvelles autour de Paris, 1965. Source : Manfredo Tafuri e Francesco Dal Co, *Modern architecture*, 1986, p. 293.](){#fig:figure-14}
+<!--![Localisation des villes nouvelles autour de Paris, 1965. Source : Manfredo Tafuri e Francesco Dal Co, *Modern architecture*, 1986, p. 293.](){#fig:figure-14}-->
 
 # Bâti #
 
@@ -357,14 +361,6 @@ construits sur elles, nous pouvons laisser de côté l'ordre supérieur de
 la ville, sa trame majeure, pour examiner ce qui se passe dans ses
 interstices, dans son remplissage architectural, soit, la *forme
 architecturale*.
-
-> l'occupation de l'îlot urbain
->
-> la rupture de l'îlot
->
-> bâtiments-objets
->
-> bâtiments-objets et *pilotis*
 
 ## Occupation de l'îlot urbain ##
 
@@ -383,7 +379,7 @@ Henry Wright (1924-28), jusqu'à la reconstruction du Havre à partir de
 1945 par Auguste Perret, le volume architectural tend à remplacer le lot
 en tant que donneur de la forme de base du paysage urbain.
 
-![Clarence Stein e Henry Wright, Phipps Garden Apartments, Nova York, 1930. Source : \<<http://www.millermicro.com/sunnyside.html>\>. Acesso: 28 set. 2014.](){#fig:figure-15}
+![Clarence Stein et Henry Wright, Phipps Garden Apartments, New York, 1930](media/phipps.jpg){#fig:figure-15}
 
 ## La rupture de l'îlot ##
 
@@ -399,7 +395,7 @@ particulièrement réussi parmi de nombreux échecs est le Parque Guinle de
 Lucio Costa (1948), à Rio, le précédent principal pour les
 *superquadras* de Brasilia.
 
-![Le Corbusier, *le gratte-ciel cartésien*, 1936. Source : Le Corbusier, *Œuvre complète, 1934-1938*, 1947, p. 77.](){#fig:figure-16}
+<!--![Le Corbusier, *le gratte-ciel cartésien*, 1936. Source : Le Corbusier, *Œuvre complète, 1934-1938*, 1947, p. 77.](){#fig:figure-16}-->
 
 ![Lucio Costa, Parque Guinle, 1948. Source : Lucio Costa, *Registro de uma vivência*, 1995, p. 206.](){#fig:figure-17}
 
@@ -413,10 +409,10 @@ contre l'incendie, combinée aux réglementations en matière de zonage,
 ont systématiquement conduit à l'imposition de marges de recul
 obligatoires pour les bâtiments. Avec le développement des structures en
 acier et en béton armé, l'un de ses résultats est l'adoption
-généralisée de l'*ossature structurale autonome* et donc la séparation
+généralisée de l'ossature structurale autonome et donc la séparation
 des éléments d'enceinte des éléments porteurs.
 
-![Auguste Perret, *avenue des maisons-tours*, 1922. Source : Joan Dethier e Alain Guiheux (orgs.), *La ville, art et architecture en Europe, 1870-1993*, 1994, p. 321.](){#fig:figure-18}
+<!--![Auguste Perret, *avenue des maisons-tours*, 1922. Source : Joan Dethier e Alain Guiheux (orgs.), *La ville, art et architecture en Europe, 1870-1993*, 1994, p. 321.](){#fig:figure-18}-->
 
 ## Bâtiments objets et pilotis ##
 
