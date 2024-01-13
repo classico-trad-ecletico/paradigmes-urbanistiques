@@ -392,12 +392,12 @@ caractéristique saillante de vastes étendues des villes contemporaines,
 remplaçant la cohésion par des espaces dépourvus d'orientation et de
 sens, accompagnés de graves problèmes d'accessibilité. Un exemple
 particulièrement réussi parmi de nombreux échecs est le Parque Guinle de
-Lucio Costa (1948), à Rio, le précédent principal pour les
+Lucio Costa (1948), à Rio, le précédent le plus direct pour les
 *superquadras* de Brasilia.
 
 <!--![Le Corbusier, *le gratte-ciel cartésien*, 1936. Source : Le Corbusier, *Œuvre complète, 1934-1938*, 1947, p. 77.](){#fig:figure-16}-->
 
-![Lucio Costa, Parque Guinle, 1948. Source : Lucio Costa, *Registro de uma vivência*, 1995, p. 206.](){#fig:figure-17}
+![Lucio Costa, Parque Guinle, 1948. Photo: Pedro Palazzo, 2012](media/BR-RJ-RJ-Parque_Guinle-121126-PP-7697.jpg){#fig:figure-17}
 
 ## Bâtiments objets ##
 
@@ -425,55 +425,63 @@ York. Le Corbusier a emprunté le même chemin à plusieurs reprises, en
 popularisant en même temps le mot français *pilotis* dans d'autres
 langues.
 
-![Raymond M. Hood, immeubles d'appartements, New York, c. 1910. Source : Ludwig Hilberseimer, *Groszstadt Architektur*, 1927, p. 68.](){#fig:figure-19}
+![Raymond M. Hood, immeubles d'appartements, New York, c. 1910. Source : Ludwig Hilberseimer, *Groszstadt Architektur*, 1927, p. 68.](media/hood.jpg){#fig:figure-19}
 
 # Retour sur le Plan Pilote #
 
-Même si la conception de Lucio Costa soit largement traduite a la
-manière corbuséene -- de la *ville contemporaine* (1922) à la *ville
-radieuse* (1935) --, son Plan Pilote ne faisait pas exception. Il peut
-être interprétée comme une synthèse de l'ensemble de cette boîte à
-outils paradigmatique : un tracé Beaux-Arts -- avec ses axes de symétrie
-et l'omniprésente *patte d'oie* -- pour une ville linéaire, dans
-laquelle prédominent les solutions autoroutières associée à des voies
-spécialisées, une forte sectorisation des usages et la prédominance de
-bâtiments isolés.
+Souvent interprété comme une réalisation à la manière corbusienne ---
+d'après la Ville contemporaine et la Ville radieuse, sans oublier les
+pavillons de la Cité internationale universitaire de Paris, le Plan
+Pilote pour Brasilia de Lucio Costa met pourtant en œuvre une gamme
+beaucoup plus large d'instruments paradigmatiques de l'urbanisme
+Beaux-Arts et moderne. Depuis son tracé monumental et symétrique, avec
+l'omniprésente patte d'oie, jusqu'au principe de la ville linéaire, l'on
+est dans le territoire de transition entre les méthodes classiques de
+projet et la modernisation technique. De par son tracé dominé par une
+conception autoroutière de la voirie, associée à la spécialisation de
+voies et au zonage fonctionnel plutôt strict, ainsi que l'emploi de
+bâtiments isolés sans distinction entre le bâti de base et les
+monuments, son Plan Pilote est par contre franchement dans le camp
+moderniste.
 
-## Présence de Le Corbusier ##
-
-![Le Corbusier. Plan d'urbanisation de Saint-Dié, 1947. Source : Le Corbusier, *Œuvre complète, 1938-1946*, 1947, p. 137.](){#fig:figure-20}
-
-![Lucio Costa, études pour le Plan Pilote, 1956-57. Source : Lucio Costa, *Registro de uma vivência*, 1995, p. 284.](){#fig:figure-21}
+<!--
+   -## Présence de Le Corbusier ##
+   -
+   -![Le Corbusier. Plan d'urbanisation de Saint-Dié, 1947. Source : Le Corbusier, *Œuvre complète, 1938-1946*, 1947, p. 137.](){#fig:figure-20}
+   -
+   -![Lucio Costa, études pour le Plan Pilote, 1956-57. Source : Lucio Costa, *Registro de uma vivência*, 1995, p. 284.](){#fig:figure-21}
+   -->
 
 ## Synthèse de paradigmes ##
 
--   *ville monumentale* : cadre symétrique dans la tradition de
-    l'urbanisme baroque ; clair distinction des espaces de
-    représentation du pouvoir ; bâtiments isolés.
+- *ville monumentale* : cadre symétrique dans la tradition de
+  l'urbanisme baroque ; nette distinction des espaces de
+  représentation du pouvoir ; bâtiments isolés.
 
--   *ville linéaire* : développement du tissu le long d'axes routiers
-    longitudinaux.
+- *ville linéaire* : développement du tissu le long d'axes routiers
+  longitudinaux, avec un développement faible et mal résolu en largeur.
 
--   *ville routière* : absence de la rue corridor ; accent mis sur la
-    circulation des véhicules ; traversées par viaducs et échangeurs
-    routiers ; tranchées.
+- *ville routière* : absence de la rue corridor ; accent mis sur la
+  circulation des véhicules ; traversées par viaducs et échangeurs
+  routiers ; tranchées.
 
--   *ville centre* : figure fermée à conserver ; expansion uniquement en
-    ajoutant des villes satellites.
+- *ville centrale* : figure fermée à conserver ; expansion uniquement en
+  ajoutant des villes satellites.
 
--   *ville spatialement ségréguée* : séparation stricte des activités et
-    des classes sociales.
+- *ville spatialement ségréguée* : séparation stricte des activités et
+  (involontairement) des classes sociales.
 
--   *ville fonctionnelle* : activités séparées en secteurs spécifiques ;
-    traitement typologiquement différencié selon des usages ; bâtiments
-    monofonctionnels.
+- *ville fonctionnelle* : activités séparées en secteurs spécifiques ;
+  traitement typologiquement différencié selon des usages ; bâtiments
+  monofonctionnels.
 
--   *cité-jardin* : prédominance des espaces verts sur les espaces bâtis
-    ; faibles densités et hauteurs.
+- *cité-jardin* : prédominance des espaces verts sur les espaces bâtis ;
+  faibles densités et hauteurs.
 
--   *ville radieuse* : organisation en grands îlots ; absence du
-    lotissement foncier ; séparation des piétons et des voitures à
-    différents niveaux.
+- *ville radieuse* : organisation en grands îlots aux contours non
+  définis par les façades du bâti ; absence du
+  lotissement foncier ; séparation des piétons et des voitures à
+  différents niveaux.
 
 ## Projets contemporains à Brasilia ##
 
@@ -485,9 +493,11 @@ immédiatement certaines zones centrales de Brasilia. La similitude entre
 le complexe résidentiel Alton West (1956), à Londres, et les
 *superquadras* de Brasilia est évident.
 
-![Paul L. Wiener et Josep L. Sert, Chimbote, Peru, 1953. Source : Ernesto N. Rogers, J.L. Sert e J. Tyrwhitt, *The heart of the City*, 1955, p. 128.](){#fig:figure-22}
+![Paul L. Wiener et Josep L. Sert, plan directeur de Chimbote, Peru, 1946. Source : Ernesto N. Rogers, J.L. Sert e J. Tyrwhitt, *The heart of the City*, 1955, p. 128.](media/chimbote.jpg){#fig:figure-22}
 
-![London County Council, Alton Estate, Londres, 1952-57. Source : Manfredo Tafuri et Francesco Dal Co, *Modern architecture*, 1986, p. 345.](){#fig:figure-23}
+<!--![London County Council, Alton Estate, Londres, 1952-57. Photo: [Stephen Richards, 2012][]](media/alton.jpg){#fig:figure-23}-->
+
+<!--[Stephen Richards, 2012]: https://commons.wikimedia.org/wiki/File:Alton_West_Estate,_Highcliffe_Drive_-_geograph.org.uk_-_3647984.jpg-->
 
 ## L'influence de Brasilia ##
 
@@ -499,7 +509,9 @@ de Wallace Harrison. Des exemples qui illustrent la nature dynamique du
 paradigme, prompt à incorporer des solutions acclamées dans le champ
 professionnel.
 
-![Wallace K. Harrison, Empire State Plaza, Albany, New York, 1965-1978. Source : carte postale, collection Sylvia Ficher](){#fig:figure-24}
+![Wallace K. Harrison, Empire State Plaza, Albany, New York, 1965-1978. Photo: [Schvaxet, 2022][]](media/albany.jpg){#fig:figure-24}
+
+[Schvaxet, 2022]: https://commons.wikimedia.org/wiki/File:Empire_State_Plaza_from_the_air.jpg
 
 ## La critique des paradigmes ##
 
@@ -514,7 +526,7 @@ American Cities* de Jane Jacobs (1961).
 
 # Le destin de Brasilia #
 
-![Paulo Caruso, Où est le Plan Pilote ?. Source : collection Sylvia Ficher](){#fig:figure-25}
+![Paulo Caruso, Où est le Plan Pilote ? Source : collection Sylvia Ficher](media/caruso.png){#fig:figure-25}
 
 [^1]: Cet article est une version extrêmement réduite de recherches
     que nous menons depuis plus d'une douzaine d'années, sous
