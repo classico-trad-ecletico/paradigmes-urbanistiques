@@ -1,5 +1,6 @@
 ---
-title: "Modernes et traditionnels : les paradigmes de Brasilia[^1]"
+title: "Modernes et traditionnels : les paradigmes urbains de Brasilia[^1]"
+subtitle: "Modern and traditional: the urban paradigms of Brasilia"
 author: "Sylvia Ficher et Pedro Palazzo"
 lang: fr-FR
 abstract: |
@@ -28,8 +29,21 @@ abstract: |
   archetypal. Yet, this high tide would be short-lived. In late 1950s
   and early 1960s, this veritable urban designer's toolbox began to lose
   its legitimacy to become target of a critical scrutiny.
-csl: sage-harvard.csl
+csl: elsevier-harvard.csl
 reference-section-title: "Bibliographie"
+nocite: |
+  @batista:2006brasilia,
+  @chambless:1910roadtown,
+  @costa:1995registro,
+  @gordon:2010planning,
+  @henard:1910royal23,
+  @hilberseimer:1927groszstadt,
+  @kuhn:1991structure,
+  @kuhn:2000essential,
+  @panerai:2012analyse,
+  @purdom:1945how,
+  @sanders:1946new,
+  @tyrwhitt:1952heart
 ---
 
 > *In memoriam*, Philippe Panerai
@@ -49,8 +63,7 @@ universellement reconnues qui, pour un temps, fournissent à une communauté de
 chercheurs des problèmes types et des solutions. » [@kuhn:1991structure, 11.]
 La justification de l'application de ses idées à des domaines extérieurs aux
 sciences *dures* est donnée par Kuhn lui-même dans « Comment on the Relations
-of Science and Art » (1969 ; Thomas Kuhn, *The essential tension*, 1977, pp.
-340-51).
+of Science and Art » [1969 ; @kuhn:2000essential, 340-51].
 
 ## Forme urbaine et forme architecturale ##
 
@@ -212,7 +225,7 @@ accidents de la route. Quant à son efficacité, elle se résume dans la
 définition drôle de la voie express : *le moyen le plus vite pour
 atteindre le prochain embouteillage*.
 
-![Spencer E. Sanders et Arthur J. Rabuck, Plan de réaménagement de la zone « A », Baltimore, Maryland. Dans *New city patterns*, 1946, p. 41.](media/balto.png){#fig:figure-7}
+![Spencer E. Sanders et Arthur J. Rabuck, Plan de réaménagement de la zone « A », Baltimore, Maryland. [@sanders:1946new, 154-155]](media/balto.png){#fig:figure-7}
 
 ## Agrandissement des villes : les *ensanches* ##
 
@@ -321,7 +334,7 @@ Plan Pilote de Brasilia --- et pour Chandigarh (1952--64).
 
 ## Cités satellites, *new towns* et *villes nouvelles* ##
 
-Ludwig Hilberseimer, dans *Großstadt Architektur* (1927), a
+Ludwig @hilberseimer:1927groszstadt, dans *Groszstadt Architektur*, a
 ainsi résumé le concept de villes satellites:
 
 > La séparation ou la dissolution de la grande ville en zones de
@@ -425,7 +438,7 @@ York. Le Corbusier a emprunté le même chemin à plusieurs reprises, en
 popularisant en même temps le mot français *pilotis* dans d'autres
 langues.
 
-![Raymond M. Hood, immeubles d'appartements, New York, c. 1910. Source : Ludwig Hilberseimer, *Groszstadt Architektur*, 1927, p. 68.](media/hood.jpg){#fig:figure-19}
+![Raymond M. Hood, immeubles d'appartements, New York, c. 1910. @hilberseimer:1927groszstadt, 68.](media/hood.jpg){#fig:figure-19}
 
 # Retour sur le Plan Pilote #
 
@@ -488,12 +501,12 @@ moderniste.
 Témoignant davantage de l'existence de formules paradigmatiques dans la
 conception urbaine au milieu du XX^e^ siècle, on trouve un grand nombre
 d'exemples de leur mise en œuvre. La proposition de Paul Lester Wiener
-et Josep Lluis Sert pour Chimbote (1953), au Pérou, rappelle
+et Josep Lluis Sert pour Chimbote (1946-53), au Pérou, rappelle
 immédiatement certaines zones centrales de Brasilia. La similitude entre
 le complexe résidentiel Alton West (1956), à Londres, et les
 *superquadras* de Brasilia est évident.
 
-![Paul L. Wiener et Josep L. Sert, plan directeur de Chimbote, Peru, 1946. Source : Ernesto N. Rogers, J.L. Sert e J. Tyrwhitt, *The heart of the City*, 1955, p. 128.](media/chimbote.jpg){#fig:figure-22}
+![Paul L. Wiener et Josep L. Sert, plan directeur de Chimbote, Peru, 1946. @tyrwhitt:1952heart, p. 128.](media/chimbote.jpg){#fig:figure-22}
 
 <!--![London County Council, Alton Estate, Londres, 1952-57. Photo: [Stephen Richards, 2012][]](media/alton.jpg){#fig:figure-23}-->
 
